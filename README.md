@@ -22,7 +22,6 @@ Users should be able to:
 - Semantic HTML markup
 - CSS custom properties
 - CSS Grid
-- JS Quotes Generator Random
 - Bootstrap 3.4.1 (Navbar,Button)
 
 ## Author
